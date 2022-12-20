@@ -11,12 +11,17 @@ public class Git {
 
 		System.out.println("ki");
 	}
+	
+	public void m3() {
+		System.out.println("kkkk");
+	}
    
 	public static void main(String[] args) {
 	
 	Git g = new Git();
 	g.m1();
 	g.m2();
+	g.m3();
 	
 }
 
